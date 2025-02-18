@@ -13,11 +13,11 @@ This Python script automates the process of:
 - Requests (`pip install requests`)
 
 ## Setup Instructions
-1. **Edit `bot.py`**:
+1. **Edit `InstagramReuploader.py`**:
    - Add your Instagram **username/password**.
    - Add **Instagram API access token** (needed for reuploading).
 
 2. **Run the bot**:
    ```sh
-   python bot.py
+   python InstagramReuploader.py
    ```
